@@ -19,7 +19,7 @@ Because modern browsers have abandoned Flash, and legacy browsers (like Maxthon 
 
 The HTTPS Bouncer: Neat Flash Browser is heavily sandboxed. Local Botfather UI and Evony traffic is allowed, but secure external links (https://) are instantly intercepted and bounced to your standard OS browser (Chrome/Edge) to ensure your botting environment remains perfectly isolated.
 
-👉 Download the Neat Flash Browser here
+👉 Download the Neat Flash Browser here: https://github.com/evony-tech/NeatFlashBrowser/releases
 
 🚀 Getting Started
 Note: The C# source code for The NEAT Botfather is maintained in a private repository to protect proprietary routing and Anti-Ban algorithms. Official compiled binaries are distributed here.
