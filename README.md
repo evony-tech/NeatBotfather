@@ -1,5 +1,5 @@
 👑 The NEAT Botfather
-The ultimate, modern C# Command Center for Evony. The NEAT Botfather is a high-performance, multi-threaded orchestration engine designed to manage, monitor, and automate your entire Evony Swarm. Built to replace outdated legacy tools, Botfather bridges the gap between 2009 Flash games and 2026 server architecture.
+The ultimate, modern C# Command Center for NEATBOT. The NEAT Botfather is a high-performance, multi-threaded orchestration engine designed to manage, monitor, and automate your entire Evony Swarm. Built to replace outdated legacy tools, Botfather bridges the gap between 2009 Flash games and 2026 server architecture.
 
 ⚡ Key Features
 Live Swarm Dashboard: Monitor your entire bot army from a single, dark-mode GUI. View live CPU/Memory consumption, process IDs, and real-time status updates.
@@ -17,7 +17,7 @@ Botfather is deeply integrated with our custom-built Neat Flash Browser.
 
 Because modern browsers have abandoned Flash, and legacy browsers (like Maxthon 5) are bloated and incapable of rendering modern HTML5/CSS3 Dashboards, we built our own.
 
-The HTTPS Bouncer: Neat Flash Browser is heavily sandboxed. Local Botfather UI and Evony traffic is allowed, but secure external links (https://) are instantly intercepted and bounced to your standard OS browser (Chrome/Edge) to ensure your botting environment remains perfectly isolated.
+The HTTPS Bouncer: Neat Flash Browser is heavily sandboxed. Local Botfather UI and your favorite flash game traffic is allowed, but secure external links (https://) are instantly intercepted and bounced to your standard OS browser (Chrome/Edge) to ensure your botting environment remains perfectly isolated.
 
 👉 Download the Neat Flash Browser here: https://github.com/evony-tech/NeatFlashBrowser/releases
 
