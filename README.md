@@ -1,5 +1,5 @@
 👑 The NEAT Botfather
-The ultimate, modern C# Command Center for NEATBOT. The NEAT Botfather is a high-performance, multi-threaded orchestration engine designed to manage, monitor, and automate your entire Evony Swarm. Built to replace outdated legacy tools, Botfather bridges the gap between 2009 Flash games and 2026 server architecture.
+The ultimate, modern C# Command Center for NEATBOT. The NEAT Botfather is a high-performance, multi-threaded orchestration engine designed to manage, monitor, and automate your entire neatbot swarm. Built to replace outdated legacy tools, Botfather bridges the gap between 2009 Flash games and 2026 server architecture.
 
 ⚡ Key Features
 Live Swarm Dashboard: Monitor your entire bot army from a single, dark-mode GUI. View live CPU/Memory consumption, process IDs, and real-time status updates.
