@@ -37,18 +37,6 @@ Upon your first boot, you will be prompted for a NEATOKey. This key verifies you
 3. Adding Accounts
 You can manually add accounts using the "Search / New Account" bar, or simply let the Autopilot Engine auto-discover and build your accounts the moment they connect to the local server.
 
-🔄 Latest Release: v1.9.5.7
-Autopilot Upsert Engine: Brand new accounts are now fully plug-and-play. Botfather intercepts the UPDATE payload and instantly populates the Master Grid.
-
-Smart Command-Line Injection: The launcher now automatically sanitizes and passes -player "Lord Name" directly to the executable.
-
-Intelligence Delay: Upgraded the Report Engine's asynchronous wait-timers. The Swarm now has 120 seconds to execute SCAN_TILE mapping before defaulting to "Unknown" combatants, significantly reducing chat spam.
-
-Legacy Defense Reports Restored: Telegram Incoming Attack alerts have been reverted to the classic tactical format, instantly displaying combat outcomes and exact troop counts sent.
-
-Flash Browser Integration: Ripped out legacy Chrome routing. All Web UI dashboards and 1-click web logins now natively route through the secure Neat Flash Browser.
-
-🐛 Bug Reports & Support
 Found a bug or have a feature request? Please use the Issues tab at the top of this repository. Be sure to include your current Botfather version and any relevant (but sanitized) error logs!
 
 For official documentation, guides, and FAQ, please visit the official knowledge base at neato3.com.
